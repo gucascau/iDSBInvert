@@ -1,5 +1,5 @@
 # iDSBInvert
-Templated insertions can occur at programmed breaks at VDJ locus or at endonuclease induced breaks (3,5,12,45). Despite their prevalence, the mechanisms underlying such events remain poorly understood, and the genetic pathways regulating these events are largely unknown. We propose that such inversions arise through microhomology mediated template switch within single-stranded DNA intermediates of replication, followed by displacement of inverted sequence and its insertion at the DSB. The package is to characterize the inverted repeats from ssDNA transformation to undestand the mechanism.
+Templated insertions can occur at programmed breaks at VDJ locus or at endonuclease induced break. Despite their prevalence, the mechanisms underlying such events remain poorly understood, and the genetic pathways regulating these events are largely unknown. We propose that such inversions arise through microhomology mediated template switch within single-stranded DNA intermediates of replication, followed by displacement of inverted sequence and its insertion at the DSB. The package is to characterize the inverted repeats from ssDNA transformation to undestand the mechanism.
 
 ## Method
 1. Technology design
