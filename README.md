@@ -23,10 +23,10 @@ Raw reads were pre-processed with quality control and merged with PEAR v0.9.111 
 
 Perl is used to run the scripts. The following softwares are also required:
 
-. bwa
-. bbduk
-. pear
-. blastn
+1. bwa
+2. bbduk
+3. pear
+4. blastn
 
 ## Usage
 
