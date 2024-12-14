@@ -35,8 +35,7 @@ sh iDSBinvert -a Sample ID -b Work Directory  -f Insertion events -r Output  -p 
 ````
 
 ## Citation
-Yang Yu^#, Xin Wang^, Jordan Fox, Qian Li, Yang Yu, P J Hastings, Kaifu Chen#, Grzegorz Ira#, RPA and Rad27 limit templated and inverted insertions at DNA breaks, Nucleic Acids Research, 2024;, gkae1159, https://doi.org/10.1093/nar/gkae1159
-
+_Yu, Y.#*, Wang, X.#, Fox, J., Li, Q., Yu, Y., Hastings, P.J., Chen, K.* and Ira, G*._ **RPA and Rad27 limit templated and inverted insertions at DNA breaks**. _Nucleic Acids Research_(2024).  https://doi.org/10.1093/nar/gkae1159
 
 # Contact
 
